@@ -19,5 +19,7 @@ The project requires openframeworks and the addon ofxMaxim
 
 * * *
 #### example:
-Below is an image showing how the display might look following a performance. The process of making a song through adding and block-deleting patterns of colour can result in an interesting visual progression to match(and generate) the music.   
-![pixelsynth image](/bin/images/pixelSynth.png)
+Below is an image showing how the display might look following a performance. The process of making a song through adding and block-deleting patterns of colour can result in an interesting visual progression to match(and generate) the music.  
+<br>
+
+> ![pixelsynth image](/bin/images/pixelSynth.png)
